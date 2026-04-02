@@ -54,7 +54,7 @@ Here's the breakdown of the top data analyst jobs in 2023:
 - Industry Leaders: Financial technology (Stripe) and traditional Finance/Insurance (Sun Life, Swiss Re) dominate the top of the list.
 - High-Value Domain Expertise: Data-driven roles in Fintech and Financial Services require the combination between raw data and specific business domain knowledge like Risk UX or Growth Operations.
 
-![Top Paying Roles](./assets\Query1_TopPayingRoles.png)
+![Top Paying Roles](./assets/Query1_TopPayingRoles.png)
 
 ### 2. The Skills Required In Top Paying Data Analyst Jobs
 
@@ -94,7 +94,7 @@ This suggests that high-paying roles in Canada often involve big data processing
 - Traditional Tools Still Present: 
 Both Excel and SAS appear in the top list, with Excel still being a requirement for 1/3 of the top-paying positions.
 
-![Skills Demanded for Top Paying Roles](./assets\Q2_SkillsForTopPayingJobs.png)
+![Skills Demanded for Top Paying Roles](./assets/Q2_SkillsForTopPayingJobs.png)
 
 
 ### 3. The most in-demand skills for data analyst roles in general
